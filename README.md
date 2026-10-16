@@ -33,10 +33,13 @@ I'm a third-year B.Sc. Computer Science student at Aalto University, with a stro
 
 ### 📝 Practical Experience 
 
-Exploitation of the following vulnerabilities:
-* SQL injection
-* Buffer overrun
-* Stored and reflected cross-site scripting (XSS)
+* **IPv4 subnetting**, RIP, OSPF, and OSPF Authentication - _Junos OS/Juniper routers_
+* **DNS name server configuration**, forward and reverse zone files, DNSSEC, and TSIG - _BIND9_
+
+* Exploitation of the following **vulnerabilities**:
+  * SQL injection
+  * Buffer overrun
+  * Stored and reflected cross-site scripting (XSS)
 
 ## 🙋‍♂️ Feel free to connect with me!
 I'm always looking to improve and expand my knowledge. Just so you know, I'm busy **25/7** ⏲️
