@@ -20,6 +20,8 @@ I'm a third-year B.Sc. Computer Science student at Aalto University, with a stro
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
 
 [![ESP32](https://img.shields.io/badge/ESP32-e7352c.svg?logo=espressif&logoColor=fff)](#)
 [![Arduino](https://img.shields.io/badge/Arduino-008184.svg?logo=arduino)](#)
